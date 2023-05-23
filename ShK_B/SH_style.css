@@ -46,6 +46,11 @@ p {
     padding: 0;
 }
 
+.inner-header.flex {
+    padding: 47px;
+    justify-content: center;
+}
+
 .flex {
     /*Flexbox for containers*/
     display: flex;
