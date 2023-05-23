@@ -46,17 +46,17 @@ p {
     padding: 0;
 }
 
-.inner-header.flex {
-    padding: 40px;
-    justify-content: center;
-}
-
 .flex {
     /*Flexbox for containers*/
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.inner-header.flex {
+    padding: 40px;
+    justify-content: center;
 }
 
 .waves {
